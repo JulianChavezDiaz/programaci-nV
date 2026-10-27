@@ -1,0 +1,38 @@
+[√] Flutter (Channel stable, 3.47.8, on Microsoft Windows [Versi¢n 10.0.26300.9711], locale es-EC) [308ms]
+    • Flutter version 3.47.8 on channel stable at D:\dev\flutter
+    • Upstream repository https://github.com/flutter/flutter.git
+    • Framework revision 737ba8f885 (4 days ago), 2026-10-22 21:37:31 -0700
+    • Engine revision cf636b1dfb
+    • Dart version 3.13.7
+    • DevTools version 2.60.0
+    • Feature flags: enable-web, enable-linux-desktop, enable-macos-desktop, enable-windows-desktop, enable-android, enable-ios, cli-animations, enable-native-assets, enable-record-use, enable-swift-package-manager, omit-legacy-version-file, enable-lldb-debugging, enable-uiscene-migration
+
+[√] Windows Version (Windows 11 or higher, 26H2, 2009) [763ms]
+
+[√] Android toolchain - develop for Android devices (Android SDK version 36.0.0) [580ms]
+    • Android SDK at C:\Users\Julian\AppData\Local\Android\sdk
+    • Emulator version 37.2.12.0 (build_id 16428233) (CL:N/A)
+    • Platform android-37.0, build-tools 36.0.0
+    • Java binary at: C:\Program Files\Android\Android Studio\jbr\bin\java
+      This is the JDK bundled with the latest Android Studio installation on this machine.
+      To manually set the JDK path, use: `flutter config --jdk-dir="path/to/jdk"`.
+    • Java version OpenJDK Runtime Environment (build 25.0.3+-15898627-b508.16)
+    • All Android licenses accepted.
+
+[√] Chrome - develop for the web [107ms]
+    • Chrome at C:\Program Files\Google\Chrome\Application\chrome.exe
+
+[√] Visual Studio - develop Windows apps (Visual Studio Community 2026 18.11.1) [106ms]
+    • Visual Studio at C:\Program Files\Microsoft Visual Studio\18\Community
+    • Visual Studio Community 2026 version 18.11.12315.225
+    • Windows 10 SDK version 10.0.26100.0
+
+[√] Connected device (3 available) [2,3s]
+    • Windows (desktop) • windows • windows-x64    • Microsoft Windows [Versi¢n 10.0.26300.9711]
+    • Chrome (web)      • chrome  • web-javascript • Google Chrome 156.0.8078.47
+    • Edge (web)        • edge    • web-javascript • Microsoft Edge 155.0.4283.45
+
+[√] Network resources [476ms]
+    • All expected network resources are available.
+
+• No issues found!
